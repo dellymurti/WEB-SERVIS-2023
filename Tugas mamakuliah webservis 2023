@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<user>
+    <nama>Delly Murti</nama>
+    <umur>30</umur>
+    <jeniskelamin>Laki-laki</jeniskelamin>
+    <alamat>
+        <jalan>Kalibawah</jalan>
+        <kecamatan>Cipondoh</kecamatan>
+        <kota>Kota Tangerang</kota>
+        <kodepos>12345</kodepos>
+    </alamat>
+    <email>delly@yahoo.com</email>
+    <telepon>+6281245453344</telepon>
+    <namaayah>Suroto</namaayah>
+    <namaibu>Tasmi</namaibu>
+</user>
