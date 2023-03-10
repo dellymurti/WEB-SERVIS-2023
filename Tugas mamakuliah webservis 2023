@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <user>
     <nama>Delly Murti</nama>
+    <nim>2110040</nim>
+    <kelas>1.4D</kelas>
     <umur>30</umur>
     <jeniskelamin>Laki-laki</jeniskelamin>
     <alamat>
